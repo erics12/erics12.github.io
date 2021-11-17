@@ -21,36 +21,4 @@
 
 主修课程：微观经济学，宏观经济学，社会主义政治经济学，马克思主义政治经济学，微积分，概率论与数理统计，线性代数，会计学
 
-自我评价：希望在未来的学习中，能收获更多，在自己的专业上有更加深入的学习与探索，
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erics12/erics12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+自我评价：我无论是在学习还是工作上都是尽心尽力，在任职的班委和加入的学生会工作中，认真负责，学习上，求知若渴，夯实自己的专业知识基础，并希望在未来的学习中，能收获更多，在自己的专业上有更加深入的学习与探索，
